@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spells>
+    <arcane>
+        <cantrip>
+            <name>Mage Hand</name>
+            <desc>Creates a spectral, floating hand for simple manipulation; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Fire Bolt</name>
+            <desc>Ranged spell attack that deals fire damage.</desc>
+            <hitDice>10</hitDice>
+            <numOfDice>1</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Prestidigitation</name>
+            <desc>Minor magical tricks: clean, flavor, small effects; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Ray of Frost</name>
+            <desc>Ranged spell attack that deals cold damage and slows target.</desc>
+            <hitDice>8</hitDice>
+            <numOfDice>1</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Minor Illusion</name>
+            <desc>Create a sound or an image as a simple illusion; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Light</name>
+            <desc>Make an object shed light; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+
+        <spell>
+            <name>Magic Missile</name>
+            <level>1</level>
+            <desc>Creates three glowing darts that automatically hit (3 darts of 1d4+1 damage each).</desc>
+            <hitDice>4</hitDice>
+            <numOfDice>1</numOfDice>
+        </spell>
+        <spell>
+            <name>Shield</name>
+            <level>1</level>
+            <desc>Instant shield that grants +5 AC until the start of your next turn; defensive.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+        <spell>
+            <name>Chromatic Orb</name>
+            <level>1</level>
+            <desc>Hurl a 1d8 elemental orb (type chosen on cast); ranged spell attack.</desc>
+            <hitDice>8</hitDice>
+            <numOfDice>1</numOfDice>
+        </spell>
+        <spell>
+            <name>Detect Magic</name>
+            <level>1</level>
+            <desc>Senses the presence of magic within 30 feet; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+        <spell>
+            <name>Sleep</name>
+            <level>1</level>
+            <desc>Put creatures into magical slumber (affects hit point pool); control.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+        <spell>
+            <name>Disguise Self</name>
+            <level>1</level>
+            <desc>Change your appearance for up to 1 hour; utility/stealth.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+    </arcane>
+
+    <nature>
+        <cantrip>
+            <name>Druidcraft</name>
+            <desc>Minor nature effects and small sensory illusions; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Poison Spray</name>
+            <desc>Close-range blast that deals poison damage.</desc>
+            <hitDice>12</hitDice>
+            <numOfDice>1</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Shillelagh</name>
+            <desc>Empowers a club or quarterstaff to use spellcasting ability for attacks; buff.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Produce Flame</name>
+            <desc>Create a flickering flame that can be thrown for fire damage.</desc>
+            <hitDice>8</hitDice>
+            <numOfDice>1</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Thorn Whip</name>
+            <desc>Make a melee spell attack dealing piercing damage and can pull a creature.</desc>
+            <hitDice>6</hitDice>
+            <numOfDice>1</numOfDice>
+        </cantrip>
+
+        <spell>
+            <name>Entangle</name>
+            <level>1</level>
+            <desc>Create grasping plants that restrain creatures in an area; control.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+        <spell>
+            <name>Goodberry</name>
+            <level>1</level>
+            <desc>Create berries that heal 1 HP each; utility/healing.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+        <spell>
+            <name>Cure Wounds</name>
+            <level>1</level>
+            <desc>Heal a creature for 1d8 + spellcasting modifier.</desc>
+            <hitDice>8</hitDice>
+            <numOfDice>1</numOfDice>
+        </spell>
+        <spell>
+            <name>Speak with Animals</name>
+            <level>1</level>
+            <desc>Temporarily communicate with animals; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+        <spell>
+            <name>Fog Cloud</name>
+            <level>1</level>
+            <desc>Create a heavily obscuring cloud of fog; control/stealth.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+        <spell>
+            <name>Hunter's Mark</name>
+            <level>1</level>
+            <desc>Mark a target to deal an extra 1d6 damage on hits while concentration lasts.</desc>
+            <hitDice>6</hitDice>
+            <numOfDice>1</numOfDice>
+        </spell>
+    </nature>
+
+    <divine>
+        <cantrip>
+            <name>Guidance</name>
+            <desc>Touch a creature to grant a d4 bonus to one ability check; buff.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Light</name>
+            <desc>Make an object shed light; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Sacred Flame</name>
+            <desc>Target must succeed on a dex save or take radiant damage.</desc>
+            <hitDice>8</hitDice>
+            <numOfDice>1</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Thaumaturgy</name>
+            <desc>Minor supernatural effects for flavor and intimidation; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Spare the Dying</name>
+            <desc>Stabilize a creature at 0 HP without needing a roll; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+
+        <spell>
+            <name>Bless</name>
+            <level>1</level>
+            <desc>Add a d4 to attack rolls and saves for up to three creatures; buff.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+        <spell>
+            <name>Cure Wounds</name>
+            <level>1</level>
+            <desc>Heal a creature for 1d8 + spellcasting modifier.</desc>
+            <hitDice>8</hitDice>
+            <numOfDice>1</numOfDice>
+        </spell>
+        <spell>
+            <name>Detect Evil and Good</name>
+            <level>1</level>
+            <desc>Senses aberrations, celestials, elementals, fey, fiends, undead within range; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+        <spell>
+            <name>Shield of Faith</name>
+            <level>1</level>
+            <desc>Grant +2 to AC to a creature for up to 10 minutes; defensive buff.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+        <spell>
+            <name>Command</name>
+            <level>1</level>
+            <desc>Issue a one-word command that the target must follow on a failed save; control.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </spell>
+    </divine>
+
+    <pact>
+        <cantrip>
+            <name>Eldritch Blast</name>
+            <desc>Make a ranged spell attack that deals force damage (beam); scales with level.</desc>
+            <hitDice>10</hitDice>
+            <numOfDice>1</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Mage Hand</name>
+            <desc>Creates a spectral, floating hand for simple manipulation; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Minor Illusion</name>
+            <desc>Create a sound or an image as a simple illusion; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+        <cantrip>
+            <name>Thaumaturgy</name>
+            <desc>Minor supernatural effects for flavor and intimidation; utility.</desc>
+            <hitDice>0</hitDice>
+            <numOfDice>0</numOfDice>
+        </cantrip>
+
+        <spell>
+            <name>Armor of Agathys</name>
+            <level>1</level>
+            <desc>Grant yourself temporary HP; attackers take cold damage when they hit you.</desc>
+            <hitDice>6</hitDice>
+            <numOfDice>1</numOfDice>
+        </spell>
+        <spell>
+            <name>Hex</name>
+            <level>1</level>
+            <desc>Place a curse on a target to deal extra 1d6 necrotic damage on hits while concentrated.</desc>
+            <hitDice>6</hitDice>
+            <numOfDice>1</numOfDice>
+        </spell>
+        <spell>
+            <name>Witch Bolt</name>
+            <level>1</level>
+            <desc>A beam of lightning that deals 1d12 lightning damage on a hit and can deal continuous damage on subsequent turns.</desc>
+            <hitDice>12</hitDice>
+            <numOfDice>1</numOfDice>
+        </spell>
+        <spell>
+            <name>Arms of Hadar</name>
+            <level>1</level>
+            <desc>Unleash tendrils of dark energy that deal 2d6 necrotic damage to nearby creatures and prevent reactions.</desc>
+            <hitDice>6</hitDice>
+            <numOfDice>2</numOfDice>
+        </spell>
+    </pact>
+</spells>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<armors>
+    <light>
+        <armor>
+            <name></name>
+            <AC></AC>
+        </armor>
+    </light>
+    <medium>
+        <armor>
+            <name></name>
+            <AC></AC>
+        </armor>
+    </medium>
+    <heavy>
+        <armor>
+            <name></name>
+            <AC></AC>
+        </armor>
+    </heavy>
+</armors>

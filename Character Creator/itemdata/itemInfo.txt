@@ -1,0 +1,21 @@
+weapon types: simple, martial
+simple subcategories:
+    Melee:  Club, Dagger, Handaxe, Javelin, Light Hammer, Mace, Quarterstaff, Sickle, Spear
+    Ranged: Dart, Sling, Light Crossbow
+martial subcategories:
+    Melee:  Battleaxe, Flail, Glaive, Greataxe, Greatsword, Lance, Longsword, Maul, Pike, Rapier, Scimitar, War Pick, Warhammer, Whip
+    Ranged: Blowgun, Hand Crossbow, Longbow, Heavy Crossbow
+
+spell types: Arcane, Nature, Divine, Pact
+Arcane: 
+    Cantrip: Mage Hand, Fire Bolt, Prestidigitation, Ray of Frost, Minor Illusion, Light
+    Level 1: Magic Missile, Shield, Chromatic Orb, Detect Magic, Sleep, Disguise Self
+Nature: 
+    Cantrip: Druidcraft, Poison Spray, Shillelagh, Produce Flame, Thorn Whip
+    Level 1: Entangle, Goodberry, Cure Wounds, Speak with Animals, Fog Cloud, Hunter’s Mark
+Divine:
+    Cantrip: Guidance, Light, Sacred Flame, Thaumaturgy, Spare the Dying
+    Level 1: Bless, Cure Wounds, Detect Evil and Good, Shield of Faith, Command
+Pact:
+    Cantrip: Eldritch Blast, Mage Hand, Minor Illusion, Thaumaturgy
+    Level 1: Armor of Agathys, Hex, Witch Bolt, Arms of Hadar

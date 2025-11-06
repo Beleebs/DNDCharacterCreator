@@ -1,0 +1,47 @@
+Character Name: Hunter
+Race: Human
+Class: Cleric 1
+Alignment: Lawful Good
+Background: 
+Experience Points: 0
+
+HP: 0
+AC: 0
+Initiative: 0
+
+Abilities: 
+Strength: 10 (Modifier: 0)
+Intelligence: 8 (Modifier: -1)
+Dexterity: 9 (Modifier: -1)
+Charisma: 15 (Modifier: +2)
+Constitution: 7 (Modifier: -2)
+Wisdom: 7 (Modifier: -2)
+
+Weapons: 
+Cool ass fucking sword
+	- Hit Dice: 3d100+300
+Lame ass stupid unlovable fucking sword
+	- Hit Dice: 1d4
+
+Armor Equipped: 
+test
+	- Light
+	- AC: 12
+
+Spells: 
+Death spell [Level: 18732]
+	- Literally just kill your fucking opponent.
+	- Damage: 100d100
+Fart [Level: 1]
+	- Whoops!!!!! Taco bell actin up!!!!!! EVERYONE LOOK OUT!! (Harmless)
+
+Spell Slots: 
+Level 1: 5
+Level 18732: 5
+
+Inventory: 
+Buttplug (Count: 1)
+	- its shoved up ur ass.
+Stick (Count: 1)
+	- this is an item
+
